@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Internship & Voluntary Services"
+permalink: /Internship & Voluntary Services/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**1) Voluntary teaching to support local education in remote and less-developed Southwest China**  
+  * Conducted on-site teaching in Yunnan Province  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+![Migration and transformation of DOM in the Erhai Lake](/images/1.png){:width="500px height="300px"}  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**2) Online internship in Dangdang Company (Top 10 electronic business platform in China)**  
+  * Held 7 book-sending activities on my personal social media account with more than 35,000 followers  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+![Migration and transformation of DOM in the Erhai Lake](/images/2.png){:width="500px height="300px"}  
+
+**3) President of the Graduate Student Council of the School of Environmental Science and Engineering**  
+  * Assisted in academic activities (academic conferences or lectures) and enrollment activities (summer camps)  
+
+![Migration and transformation of DOM in the Erhai Lake](/images/3.png){:width="500px height="300px"}  

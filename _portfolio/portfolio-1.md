@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+
+excerpt: "Voluntary teaching to support local education in remote and less-developed Southwest China<br/><img src='/images/1.png'>"{:width="500px height="300px"}
 collection: portfolio
 ---
 

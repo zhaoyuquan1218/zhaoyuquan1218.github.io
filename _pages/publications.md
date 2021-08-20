@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Selected Research Experiences"
+permalink: /Selected Research Experiences/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**1) Migration and transformation of DOM in the Erhai Lake**  
 
-{% include base_path %}
+![Migration and transformation of DOM in the Erhai Lake](/images/editing-talk.png){:width="500px height="300px"}  
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**2) Fluorescence characteristics of DOM in Danjiangkou Reservoir**  
+
+![Editing a markdown file for a talk](/images/editing-talk3.png){:width="500px height="300px"}  
+
+**3) Fertilizer effect surface of native plants in Arid Desert Area (Gansu Province)**  
+
+![Editing a markdown file for a talk](/images/editing-talk4.png){:width="500px height="300px"}
