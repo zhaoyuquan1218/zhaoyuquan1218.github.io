@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-**[Shanghai Jiaotong University](https://en.sjtu.edu.cn/)**, China, 2019/9-2022/3(Expected)  
+**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, China, 2019/9-2022/3(Expected)  
 _Master of Engineering in Environmental Science and Engineering_  	 
   * School Outstanding Student
 
@@ -57,9 +57,10 @@ ACADEMIC ACHIEVEMENTS
 ------
 **Publications**
 	 
-1)	**Zhao, Y.**; Shen, J.; Feng, J.; Zi, J.; Liu, Y.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Environmental Science: Processes & Impacts_ (Under review)
+1)	**Zhao, Y.**; Shen, J.; Feng, J.; Zi, J.; Liu, Y.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Chemosphere_ (Under review)
 
-2)	**Zhao, Y.**; Shen, J.; Feng, J.; Sun, T.; Sun, Z.; Liu, D.; Xi, M.; Li, R.; Wang, X., Water quality index (CODMn) prediction based on DOM fluorescence intensity, using EEM-PARAFAC and machine learning. _Environmental Monitoring and Assessment_ (Under review)
+2)	**Zhao, Y.**; Shen, J.; Feng, J.; Sun, T.; Sun, Z.; Liu, D.; Xi, M.; Li, R.; Wang, X., Estimation of Chemical Oxygen Demand of Erhai Lake Basin and its links
+with DOM fluorescent components using machine learning. _Water_ (Accepted)
 
 3)	**Zhao, Y.**; Shen, J.; Wang, X.; Feng, J., Source analysis of DOM fluorescence components in Erhai Lake based on partial least squares path model. _Erhai Lake Protection and Research_. 2021(3): 14-23 (In Chinese)
 
