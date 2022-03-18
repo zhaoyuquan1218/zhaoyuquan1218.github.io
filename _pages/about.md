@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, China, 2019/9-2022/3(Expected)  
+**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, China, 2019/9-2022/6(Expected)  
 _Master of Engineering in Environmental Science and Engineering_  	 
   * School Outstanding Student
 
@@ -29,7 +29,7 @@ SELECTED RESEARCH EXPERIENCES
 Master’s degree research project, supervised by Prof. Wang Xinze, 2020/7-present  	
   * Conducted one-year water sample testing at 155 sampling points (Yunnan Province)
   * **Major Contribution**: Quantified the contribution of different sources to DOM, based on the Partial Least Square-Path Model (PLS-PM). Realized the prediction of COD through the Machine learning (Random forest and Ridge regression)
-  * **Output**: Master thesis(in progress), 2 first-authored publications (Under review) & 1 first-authored publication
+  * **Output**: Master thesis(in progress), 2 first-authored publications & 1 first-authored publication(in chinese)
 
 **Fluorescence characteristics and source analysis of DOM in Danjiangkou Reservoir**  
 Bachelor’s degree research project, supervised by Prof. Li Ming, 2018/5-2019/5  
@@ -57,7 +57,7 @@ ACADEMIC ACHIEVEMENTS
 ------
 **Publications**
 	 
-1)	**Zhao, Y.**; Shen, J.; Feng, J.; Zi, J.; Liu, Y.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Chemosphere_ (Under review)
+1)	**Zhao, Y.**; Shen, J.; Feng, J.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Chemosphere_ (Accepted)
 
 2)	**Zhao, Y.**; Shen, J.; Feng, J.; Sun, T.; Sun, Z.; Liu, D.; Xi, M.; Li, R.; Wang, X., Estimation of Chemical Oxygen Demand of Erhai Lake Basin and its links
 with DOM fluorescent components using machine learning. _Water_ (Accepted)
