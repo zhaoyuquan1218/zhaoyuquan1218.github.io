@@ -29,7 +29,7 @@ SELECTED RESEARCH EXPERIENCES
 Master’s degree research project, supervised by Prof. Wang Xinze, 2020/7-present  	
   * Conducted one-year water sample testing at 155 sampling points (Yunnan Province)
   * **Major Contribution**: Quantified the contribution of different sources to DOM, based on the Partial Least Square-Path Model (PLS-PM). Realized the prediction of COD through the Machine learning (Random forest and Ridge regression)
-  * **Output**: Master thesis(in progress), 2 first-authored publications & 1 first-authored publication(in chinese)
+  * **Output**: Master thesis(in progress), 2 first-authored publications & 1 first-authored publication(in Chinese)
 
 **Fluorescence characteristics and source analysis of DOM in Danjiangkou Reservoir**  
 Bachelor’s degree research project, supervised by Prof. Li Ming, 2018/5-2019/5  
