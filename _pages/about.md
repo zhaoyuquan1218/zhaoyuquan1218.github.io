@@ -57,7 +57,7 @@ ACADEMIC ACHIEVEMENTS
 ------
 **Publications**
 	 
-1)	**Zhao, Y.**; Shen, J.; Feng, J.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Chemosphere_ https://doi.org/10.1016/j.chemosphere.2022.134377  
+1)	**Zhao, Y.**; Shen, J.; Feng, J.; Wang, X., Quantification in the impact of different sources on the DOM components of Erhai Lake based on PLS-PM and EEM-PARAFAC Analysis. _Chemosphere_ **[https://doi.org/10.1016/j.chemosphere.2022.134377](https://doi.org/10.1016/j.chemosphere.2022.134377)**  
 
 2)	**Zhao, Y.**; Shen, J.; Feng, J.; Sun, T.; Sun, Z.; Liu, D.; Xi, M.; Li, R.; Wang, X., Estimation of Chemical Oxygen Demand of Erhai Lake Basin and its links
 with DOM fluorescent components using machine learning. _Water_ https://doi.org/10.3390/w13243629  
