@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhao Yuquan"
 title_separator          : "-"
-name                     : &name "Zhao Yuquan"
+name                     : &name "ZHAOYuquan"
 description              : &description "personal description"
 url                      : https://zhaoyuquan1218.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhao Yuquan"
+  name             : "ZHAOYuquan"
   avatar           : "profile.png"
-  bio              : "Postgraduate student"
-  location         : "Shanghai, China"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "PhD"
+  location         : "Japan"
+  Lab website      : "https://mee.k.u-tokyo.ac.jp/wp/"
+  Research keywords: "Data analysis, Modelling, Carbon cycle, Dissolved Organic Carbon, Costal area"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zhaoyuquan@sjtu.edu.cn"
+  email            : "zhaoyuquan@g.ecc.u-tokyo.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
