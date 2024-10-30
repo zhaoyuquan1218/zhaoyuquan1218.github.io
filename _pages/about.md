@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 ------
+
+**[The University of Tokyo](https://mee.k.u-tokyo.ac.jp/wp/)**, Japan, 2023/10-present  
+_Doctoral course of the Department of Ocean Technology, Policy and Environment_  	 
+  * Research Keywords: Data analysis, Modelling, Carbon cycle, Dissolved Organic Carbon, Costal area
+
+**[Northeast Normal University Preparatory School for Chinese Students to Japan](https://lryx.nenu.edu.cn/index.htm)**, China, 2022/10-2023/8  
+_10-month Japanese Training_  	 
+  * CSC-MEXT Scholarship
+
 **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, China, 2019/9-2022/6  
 _Master of Engineering in Environmental Science and Engineering_  	 
   * School Outstanding Student
@@ -52,6 +61,8 @@ SELECTED AWARDS
 	 
 * First Prize(Scientific & technological innovation competition for ecological environment construction), 2017/12
 
+* MEXT Scholarship, 2023/10-2027/3
+
 
 ACADEMIC ACHIEVEMENTS
 ------
@@ -91,7 +102,7 @@ _Leader_，2020/6-2021/6
 
 SELECTED SKILLS
 ------
-* **R** (PLS-PM), Learning of R for data science is in process
+* **R** (Data analysis)
 	 
 * **Python** (Machine learning)
 
@@ -101,4 +112,5 @@ SELECTED SKILLS
 
 * **GitHub** (Web page making)
 
+* **Language** (TOEIC: 925, Japanese: N2 level)
 
